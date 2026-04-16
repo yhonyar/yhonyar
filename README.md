@@ -1,4 +1,4 @@
-# Hi, I'm Yhony Mamani 👋
+# Hi, I'm Yhony 👋
 
 🎓 PhD Student in Theoretical Physics @ IFT-UNESP  
 💻 Computational Physicist | Data Scientist  
