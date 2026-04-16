@@ -1,15 +1,18 @@
 # Hi, I'm Yhony 👋
 
 🎓 PhD Student in Theoretical Physics @ IFT-UNESP  
-💻 Computational Physicist | Data Scientist  
+💻 Computational Physicist | Experimental Physicist | Data Scientist 
 📍 São Paulo, Brazil  
 
 I am a physicist working at the interface of **non-equilibrium statistical physics, active matter, and soft condensed matter**.  
 My research focuses on the **computational modeling of complex systems**, combining stochastic dynamics, numerical simulations, and data analysis to uncover emergent physical behavior.
 
-I hold a Master’s degree in **experimental solid-state physics (Peru)**, where I worked on the **structural and magnetic characterization of soils and clay minerals** using X-ray techniques (XRF, XRD) and Mössbauer spectroscopy. This experience provided a strong foundation in **experimental data analysis, multi-technique integration, and physical interpretation of complex datasets**.
+I hold two Master's degrees:
 
-Currently, as a PhD student at IFT-UNESP, my work is centered on **active matter in anisotropic environments**, with emphasis on transport phenomena in liquid crystalline systems.
+- **M.Sc. in Solid State Physics (Peru)** — focused on the **experimental characterization of soils and clay minerals**, using X-ray techniques (XRF, XRD) and Mössbauer spectroscopy to study structural, chemical, and magnetic properties of complex materials.  
+- **M.Sc. in Theoretical Physics (IFT-UNESP)** — focused on **active matter in anisotropic environments**, where I developed numerical simulations to investigate the transport properties of active Brownian particles in smectic liquid crystals.
+
+Currently, as a PhD student at IFT-UNESP, I **continue and expand this research line**, exploring the role of complex geometries and microstructures in active matter dynamics.
 
 > *Bridging theoretical physics, computational modeling, and data-driven approaches to understand complex systems.*
 
@@ -28,15 +31,23 @@ Currently, as a PhD student at IFT-UNESP, my work is centered on **active matter
 ## 🔬 Current Research
 
 **Active Matter in Complex Environments**  
-I investigate the dynamics of active Brownian particles embedded in smectic-A liquid crystals, combining **stochastic modeling and large-scale numerical simulations**.
+
+I investigate the transport properties of active Brownian particles (ABPs) in smectic-A liquid crystal systems through **large-scale numerical simulations**.
 
 My work focuses on:
-- Mean squared displacement (MSD) and rotational dynamics  
-- Coupling between particle activity and director fields  
-- Effects of **Focal Conic Domains (FCDs)** on transport properties  
-- Emergence of anomalous diffusion (superdiffusive and oscillatory regimes)  
 
-This research explores how **geometrical constraints and anisotropy** control particle dynamics in soft matter systems.
+- Mean squared displacement (MSD) and rotational dynamics (RMSD)  
+- Coupling between particle activity and liquid crystal director fields  
+- Effects of **Focal Conic Domains (FCDs)** as reorientation centers  
+- Emergence of anomalous transport regimes (superdiffusion and oscillatory behavior)  
+
+In particular, my previous work demonstrated that:
+- In uniform smectic configurations, ABPs exhibit a transition from **ballistic to enhanced diffusion**, governed by self-propulsion and alignment  
+- In the presence of FCDs, the spatially varying director field induces **stochastic reorientation**, leading to:
+  - transient superdiffusive regimes (perpendicular MSD)  
+  - oscillatory behavior in parallel transport at intermediate and long times  
+
+This research highlights how **anisotropy and spatial heterogeneity** in soft matter systems control active transport, with potential implications for **micro-robotics and active material design**.
 
 ---
 
@@ -44,7 +55,7 @@ This research explores how **geometrical constraints and anisotropy** control pa
 
 ### ⚛️ Computational Physics
 - **Active Particles in Smectic Liquid Crystals**  
-  Simulation of overdamped Langevin dynamics to study anisotropic diffusion, particle trapping, and transport in structured media.
+  Simulation of overdamped Langevin dynamics to study anisotropic diffusion, particle trapping, and transport in structured environments.
 
 - **2D Ising Model (Monte Carlo Simulation)**  
   Numerical study of phase transitions and critical behavior using stochastic sampling techniques.
@@ -53,16 +64,16 @@ This research explores how **geometrical constraints and anisotropy** control pa
 
 ### 📊 Data Science & Machine Learning
 - **Cosmic Ray Classification**  
-  Supervised learning models (SVM, Decision Trees, Logistic Regression) to classify primary cosmic rays, including model evaluation and hyperparameter optimization.
+  Supervised learning models (SVM, Decision Trees, Logistic Regression) for classification of primary cosmic rays, including model evaluation and optimization.
 
 ---
 
 ### 🧪 Experimental Data Analysis
-- **Soil and Clay Mineral Characterization (MSc Research)**  
+- **Soil and Clay Mineral Characterization (MSc Research – Peru)**  
   Integrated analysis using XRF, XRD, and Mössbauer spectroscopy:
   - Identification of mineral phases (montmorillonite, hematite, goethite)  
   - Hyperfine interaction analysis of Fe²⁺/Fe³⁺  
-  - Depth-dependent evolution of soil composition  
+  - Depth-dependent mineralogical evolution  
   - Correlation between structural configurations and quadrupole interactions  
 
 ---
@@ -79,7 +90,7 @@ Stochastic differential equations, Langevin dynamics, Monte Carlo methods, numer
 NumPy, SciPy, Pandas, Scikit-learn, data preprocessing, model evaluation  
 
 **Experimental Techniques:**  
-XRF, XRD, Mössbauer spectroscopy, data interpretation and modeling  
+XRF, XRD, Mössbauer spectroscopy, multi-technique data analysis  
 
 ---
 
@@ -97,7 +108,7 @@ I bring a combination of:
 ✔ Experience working with large and complex datasets  
 ✔ Ability to translate scientific problems into computational solutions  
 
-These skills are directly applicable to roles in **data science, quantitative analysis, and modeling in finance or technology sectors**.
+These skills are directly applicable to roles in **data science, quantitative analysis, and modeling in finance and technology sectors**.
 
 ---
 
