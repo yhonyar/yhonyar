@@ -2,6 +2,7 @@
 
 🎓 PhD Student in Theoretical Physics @ IFT-UNESP  
 💻 Computational Physicist | Experimental Physicist | Data Scientist 
+
 📍 São Paulo, Brazil  
 
 I am a physicist working at the interface of **non-equilibrium statistical physics, active matter, and soft condensed matter**.  
