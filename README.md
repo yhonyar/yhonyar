@@ -1,53 +1,109 @@
-# Hi, I'm Yhony 👋
+# Hi, I'm Yhony Mamani 👋
 
 🎓 PhD Student in Theoretical Physics @ IFT-UNESP  
 💻 Computational Physicist | Data Scientist  
-📍 São Paulo, Brazil
+📍 São Paulo, Brazil  
 
-I am a PhD student at IFT-UNESP working at the intersection of 
-statistical physics, active matter, and computational modeling.
+I am a physicist working at the interface of **non-equilibrium statistical physics, active matter, and soft condensed matter**.  
+My research focuses on the **computational modeling of complex systems**, combining stochastic dynamics, numerical simulations, and data analysis to uncover emergent physical behavior.
 
-My work focuses on simulating complex systems and extracting 
-insights from high-dimensional data using Python and modern 
-data science techniques.
+I hold a Master’s degree in **experimental solid-state physics (Peru)**, where I worked on the **structural and magnetic characterization of soils and clay minerals** using X-ray techniques (XRF, XRD) and Mössbauer spectroscopy. This experience provided a strong foundation in **experimental data analysis, multi-technique integration, and physical interpretation of complex datasets**.
 
-I am particularly interested in applying scientific computing 
-and machine learning to real-world problems in industry.
+Currently, as a PhD student at IFT-UNESP, my work is centered on **active matter in anisotropic environments**, with emphasis on transport phenomena in liquid crystalline systems.
 
-## 🔬 What I'm Currently Working On
+> *Bridging theoretical physics, computational modeling, and data-driven approaches to understand complex systems.*
+
+---
+
+## 🔬 Research Interests
+
+- Non-equilibrium statistical physics  
+- Active matter and stochastic processes  
+- Soft condensed matter (liquid crystals, smectics)  
+- Transport phenomena in complex and anisotropic media  
+- Computational physics and numerical simulations  
+
+---
+
+## 🔬 Current Research
 
 **Active Matter in Complex Environments**  
-Investigating the dynamic behavior of active particles embedded in smectic liquid crystals.
+I investigate the dynamics of active Brownian particles embedded in smectic-A liquid crystals, combining **stochastic modeling and large-scale numerical simulations**.
 
-I am currently developing computational models to study how layer fluctuations and microstructures—such as Focal Conic Domains (FCDs)—induce anomalous transverse diffusion and flow instabilities.
+My work focuses on:
+- Mean squared displacement (MSD) and rotational dynamics  
+- Coupling between particle activity and director fields  
+- Effects of **Focal Conic Domains (FCDs)** on transport properties  
+- Emergence of anomalous diffusion (superdiffusive and oscillatory regimes)  
 
-*(PhD Research @ IFT-UNESP)*
+This research explores how **geometrical constraints and anisotropy** control particle dynamics in soft matter systems.
+
+---
+
+## 💻 Selected Projects
+
+### ⚛️ Computational Physics
+- **Active Particles in Smectic Liquid Crystals**  
+  Simulation of overdamped Langevin dynamics to study anisotropic diffusion, particle trapping, and transport in structured media.
+
+- **2D Ising Model (Monte Carlo Simulation)**  
+  Numerical study of phase transitions and critical behavior using stochastic sampling techniques.
+
+---
+
+### 📊 Data Science & Machine Learning
+- **Cosmic Ray Classification**  
+  Supervised learning models (SVM, Decision Trees, Logistic Regression) to classify primary cosmic rays, including model evaluation and hyperparameter optimization.
+
+---
+
+### 🧪 Experimental Data Analysis
+- **Soil and Clay Mineral Characterization (MSc Research)**  
+  Integrated analysis using XRF, XRD, and Mössbauer spectroscopy:
+  - Identification of mineral phases (montmorillonite, hematite, goethite)  
+  - Hyperfine interaction analysis of Fe²⁺/Fe³⁺  
+  - Depth-dependent evolution of soil composition  
+  - Correlation between structural configurations and quadrupole interactions  
+
+---
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, SQL  
-- **Libraries:** NumPy, SciPy, Pandas, Scikit-learn, Matplotlib  
-- **Tools:** Jupyter Notebook, Git, CUDA (parallel computing)  
-- **Concepts:** Machine Learning, Statistical Physics, Stochastic Processes  
+**Programming & Tools:**  
+Python, SQL, Git, Jupyter Notebook, CUDA (parallel computing)  
 
-## 🚀 Industry Interests
+**Scientific Computing:**  
+Stochastic differential equations, Langevin dynamics, Monte Carlo methods, numerical integration  
 
-I am interested in applying my background in:
-- Data Science & Machine Learning
-- Quantitative Modeling
-- Simulation of complex systems
-- Data-driven decision making
+**Data Science & Machine Learning:**  
+NumPy, SciPy, Pandas, Scikit-learn, data preprocessing, model evaluation  
 
-I bring a strong combination of:
-✔ Analytical thinking  
-✔ Scientific modeling  
-✔ Programming and data analysis  
+**Experimental Techniques:**  
+XRF, XRD, Mössbauer spectroscopy, data interpretation and modeling  
 
-## 📈 GitHub Stats
+---
+
+## 🚀 Applied & Industry-Oriented Skills
+
+Beyond academia, I apply my background in:
+
+- Quantitative data analysis and statistical modeling  
+- Machine learning for classification and prediction  
+- Simulation of complex systems for decision-making  
+- ETL processes and data pipelines  
+
+I bring a combination of:
+✔ Strong analytical and mathematical modeling skills  
+✔ Experience working with large and complex datasets  
+✔ Ability to translate scientific problems into computational solutions  
+
+These skills are directly applicable to roles in **data science, quantitative analysis, and modeling in finance or technology sectors**.
+
+---
 
 ## 📫 Contact
 
-- LinkedIn: ([link](https://www.linkedin.com/in/yhonymarce/))
+- LinkedIn: https://www.linkedin.com/in/yhonymarce/
 
 <!--
 **yhonyar/yhonyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
